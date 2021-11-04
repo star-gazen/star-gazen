@@ -8,7 +8,7 @@ My name is Bryan and I aspire to become a software engineer. I am most fluent wi
 You can find and reach out to me on my LinkedIn:   [![LinkedIn][2.2]][2].
 I currently do not have a Twitter account.
 
-## 🔧 Technologies & Tools
+## Skills and Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=de2635)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=de2635)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=de2635)
