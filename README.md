@@ -15,7 +15,6 @@ I currently do not have a Twitter account.
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=de2635)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=de2635)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=de2635)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=de2635)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=google-cloud&logoColor=white&color=de2635)
 
 
