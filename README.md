@@ -5,7 +5,7 @@
 My name is Bryan and I aspire to become a software engineer. I am most fluent with JavaScript but I have experience working with other languages too, such as Python, SQL, and TypeScript.
 
 # Socials
-You can find and reach out to me on my LinkedIn: [![LinkedIn][2.2]][2].
+You can find and reach out to me on my LinkedIn:   [![LinkedIn][2.2]][2].
 
 
 
