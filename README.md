@@ -6,6 +6,7 @@ My name is Bryan and I aspire to become a software engineer. I am most fluent wi
 
 # Socials
 You can find and reach out to me on my LinkedIn:   [![LinkedIn][2.2]][2].
+I currently do not have a Twitter account.
 
 
 
